@@ -1,0 +1,28 @@
+
+body{
+          text-align: center;
+}
+h1{
+          font-size:8rem;
+}
+label{
+          font-size: 50px;
+}
+input{
+          width: 500px;
+          height: 100px;
+}
+.email input{
+          margin-left:130px;
+}
+.email{
+          margin-bottom: 70px;
+
+}
+button{
+          margin-top: 20px;
+          margin-left: 630px;
+          width:100px ;
+          height:40px;
+          font-size: 20px;
+}
